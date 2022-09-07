@@ -1,4 +1,3 @@
-import './style.css'
 const ham = document.querySelector('.ham');
 ham.addEventListener("click", showMenu)
 
